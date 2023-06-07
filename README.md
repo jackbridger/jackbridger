@@ -1,7 +1,7 @@
 ## Currently working on: 
 * [Scaling DevTools](https://podcast.scalingdevtools.com/) - a DevTools growth podcast, we're on episode 50ish now
-* [Magic Cache](https://github.com/bitreach/magic-cache) - idea is to save money on your devtools openai bill by caching your existing completions
-* [Super Simple Chat](https://github.com/jackbridger/super-simple-chat) - easier to build chat without locking yourself in
+* [Magic Cache](https://github.com/bitreach/magic-cache) - idea is to save money on your devtools openai bill by caching your existing completions. Not actually launched yet. 
+* [Super Simple Chat](https://github.com/jackbridger/super-simple-chat) - easier to build chat without locking yourself in. Not actually launched yet. 
 
 ### Past experiments/small ideas (mostly with Nick Smet)
 * [Apptoggle](https://apptoggle.com/) - Make any React Native Screen A/B testable by your marketing team. Even after deployment. Got to #1 on r/reactnative but we couldn't find a strong pressing problem so moved on
