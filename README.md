@@ -7,7 +7,7 @@
 * [Apptoggle](https://apptoggle.com/) - Make any React Native Screen A/B testable by your marketing team. Even after deployment. Got to #1 on r/reactnative but we couldn't find a strong pressing problem so moved on
 * [A/B testing with Supabase](https://dev.to/jacksbridger/ab-split-your-users-with-supabase-kco) - an article experiment - no interest
 * [In-app surveys made easy](https://surveyloop.co/) - idea to make no-code in app surveys developers like using. We still get some interest in this but I think neither of us felt that passionate about it.
-* An AI video clip generator - I wrote all the code and didn't launch it - no idea why 
+* An AI video clip generator - I wrote all the code and didn't launch it. I think mostly because I realised I wanted to do a devtool.
 
 ### Some of my past actual projects:
 * [Code at Uni](https://www.codeatuni.com/) - cofounded a company that taught students how to code. Moderate success, £450k+ lifetime revenue
