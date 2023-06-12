@@ -1,6 +1,6 @@
 ## Recently working on: 
 * [Scaling DevTools](https://podcast.scalingdevtools.com/) - a DevTools growth podcast, we're on episode 50ish now
-* [Magic Cache](https://github.com/bitreach/magic-cache) - idea is to save money on your devtools openai bill by caching your existing completions. Not actually launched yet. 
+* [Magic Cache](https://magic-cache-app.vercel.app/)) - idea is to save money on your devtools openai bill by caching your existing completions. Built it. Now need to release it. 
 * [Super Simple Chat](https://github.com/jackbridger/super-simple-chat) - easier to build chat without locking yourself in. Not actually launched yet. 
 
 ### Past experiments/small ideas (mostly with Nick Smet)
