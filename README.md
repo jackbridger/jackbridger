@@ -8,6 +8,8 @@
 * [A/B testing with Supabase](https://dev.to/jacksbridger/ab-split-your-users-with-supabase-kco) - an article experiment - no interest
 * [In-app surveys made easy](https://surveyloop.co/) - idea to make no-code in app surveys developers like using. We still get some interest in this but I think neither of us felt that passionate about it.
 * An AI video clip generator - I wrote all the code and didn't launch it. I think mostly because I realised I wanted to do a devtool.
+* Easy football news in Japanese - translates a BBC article into [basic japanese for beginners](https://easy-japanese-news-football.tiiny.site/)
+* [Replicating WhatsApp in React Native article series](https://dev.to/jacksbridger/whatsapp-ui-in-react-native-part-1-4nbm)
 
 ### Some of my past actual projects:
 * [Code at Uni](https://www.codeatuni.com/) - cofounded a company that taught students how to code. Moderate success, £450k+ lifetime revenue
