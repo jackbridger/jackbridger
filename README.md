@@ -1,8 +1,9 @@
 ## Recently working on: 
 * [Scaling DevTools](https://podcast.scalingdevtools.com/) - a DevTools growth podcast, we're on episode 50ish now
-* AI Video clipping tool 
+* DevTool ideas around customer facing debugging with @nosajio
 
 ### Past experiments/small ideas
+* AI Video clipping tool 
 * [Magic Cache](https://magic-cache-app.vercel.app/)) - idea is to save money on your devtools openai bill by caching your existing completions. Built it. Got some "this is cool" reaction but not much in the way of actions
 * [Super Simple Chat](https://github.com/jackbridger/super-simple-chat) - easier to build chat without locking yourself in. Not actually launched yet. 
 * [Apptoggle](https://apptoggle.com/) - Make any React Native Screen A/B testable by your marketing team. Even after deployment. Got to #1 on r/reactnative but we couldn't find a strong pressing problem so moved on
