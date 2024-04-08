@@ -1,6 +1,6 @@
 ## Recently working on: 
-* [Scaling DevTools](https://podcast.scalingdevtools.com/) - a DevTools growth podcast, we're on episode 50ish now
-* DevTool ideas around customer facing debugging with @nosajio
+* [Scaling DevTools](https://podcast.scalingdevtools.com/) - a DevTools growth podcast. 75+ episodes.
+* media processing APIs
 
 ### Past experiments/small ideas
 * AI Video clipping tool - built the whole thing and it worked pretty well but lost my enthusiasm
