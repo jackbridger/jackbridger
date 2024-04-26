@@ -1,6 +1,6 @@
 ## Recently working on: 
 * [Scaling DevTools](https://podcast.scalingdevtools.com/) - a DevTools growth podcast. 75+ episodes.
-* [StreamPot - media processing APIs](https://github.com/jackbridger/streampot)
+* [StreamPot](https://github.com/jackbridger/streampot) - media processing APIs
 
 ### Past experiments/small ideas
 * AI Video clipping tool - built the whole thing and it worked pretty well but lost my enthusiasm
