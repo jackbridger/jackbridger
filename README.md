@@ -1,4 +1,4 @@
-## Recently working on: 
+## Actively working on: 
 * [Scaling DevTools](https://podcast.scalingdevtools.com/) - a DevTools growth podcast. 75+ episodes.
 * [StreamPot](https://github.com/jackbridger/streampot) - media processing APIs
 
